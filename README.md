@@ -16,7 +16,7 @@
 
 ## **3. Data Source**
  
-The dataset included employee demographics such as gender, age group, job level, department, and hiring date from 2012 to 2020.
+The dataset included employee demographics such as gender, age group, job level, department, and hiring date from 2012 to 2020. This dataset is provided by PwC Switzerland (open-source licensed).
 
 
 ## **4. Tools and Techniques**
