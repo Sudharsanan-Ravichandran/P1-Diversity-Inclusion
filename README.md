@@ -1,5 +1,5 @@
 
-
+![Alt text](Assets/Cover_Image.png)
 
 ## **1. Project Title** 
 **Diversity & Inclusion Dashboard Analysis**  
@@ -44,6 +44,12 @@ The dataset included employee demographics such as gender, age group, job level,
 3. **Diversity Distribution:**
    - Certain departments showed higher gender diversity than others.
 
+**Page 1**
+![Alt text](Assets/Diversity_and_Inclusion_DB_1.png)
+
+
+**Page 2**
+![Alt text](Assets/Diversity_and_Inclusion_DB_2.png)
 
 ## **7. Impact**
 
@@ -60,24 +66,9 @@ Handling inconsistent data formats required advanced data cleaning techniques in
 This project enhanced my ability to create dynamic dashboards with intuitive filtering options while improving my understanding of diversity metrics.
 
 
-## **10. Link to Dashboard/Code**
-Provide access for potential employers to explore further:
-- Include a link to the interactive dashboard (if hosted online).
-- Add a GitHub repository link if applicable.
+## **10. Link to Dashboard**
+
+![Power BI report](Assets/PwC_HR_Gender_data_Final.pbix)
 
 
-### **Example Portfolio Entry**
-
-| Section           | Content                                                                                       |
-|-------------------|-----------------------------------------------------------------------------------------------|
-| Title             | Diversity & Inclusion Dashboard Analysis                                                     |
-| Objective         | Analyzed gender diversity trends across departments, job levels, and regions over time.      |
-| Data Source       | HR dataset with demographics such as gender, age group, job level, department, and region.   |
-| Tools & Techniques| Power BI for visualization; trend analysis; interactive slicers for filtering data.          |
-| Approach          | Data cleaning → Exploratory analysis → Visualization design → Interactivity implementation.  |
-| Insights          | Increased female representation in executive roles since 2016; tenure differences by gender. |
-| Impact            | Enables leadership teams to monitor diversity metrics dynamically and make informed decisions|
-| Challenges        | Addressed inconsistent data formats using advanced cleaning techniques in Power BI.          |
-| Reflection        | Improved skills in creating interactive dashboards and analyzing diversity metrics effectively|
-| Links             | [Interactive Dashboard](#) / [GitHub Repository](#)                                         |
 
